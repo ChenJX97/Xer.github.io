@@ -5,18 +5,18 @@
        href="{{ site.github.repo }}">
       {% include svg/github.svg %}
     </a>
-    <a id="weibo-link"
+  {% endif %}
+	<a id="weibo-link"
        class="icon" title="Weibo" aria-label="Weibo"
        href="{{ site.weibo.repo }}">
       {% include svg/weibo-brands.svg %}
     </a>
-  {% endif %}
-
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
-    {% include svg/feed.svg %}
-  </a>
+	
+	<a id="subscribe-link"
+		class="icon" title="Subscribe" aria-label="Subscribe"
+		href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
+		{% include svg/feed.svg %}
+	</a>
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
