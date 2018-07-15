@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Xer
-tagline:          '前方虽长，犹可期待'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            Xer97’s Blog
+tagline:          ''
+description:      '前方虽长 犹可期待'
 url:              
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
