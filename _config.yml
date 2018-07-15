@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Xer97’s Blog
-tagline:          ''
+title:            Xer97
+tagline:          'My Blog'
 description:      '前方虽长 犹可期待'
 url:              
 baseurl:          
