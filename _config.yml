@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Xer97
 tagline:          'My Blog'
 description:      '前方虽长  犹可期待'
-url:              
+url:              https://xer97.github.io/
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
