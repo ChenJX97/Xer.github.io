@@ -3,4 +3,6 @@ layout: category
 title: Other
 ---
 
-Another sample category page.
+----------
+
+待开发界面......

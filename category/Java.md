@@ -3,25 +3,8 @@ layout: category
 title: JAVA
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+这里收录了作者参考一些学习资料整理出来的学习笔记，欢迎通过微博等方式指正错误与不足或技术交流。
 
-```md
----
-layout: category
-title: My Category
----
-```
+这里推荐一个有许多Java干货的博客：[HollisChuang's Blog](http://www.hollischuang.com/)
 
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+----------

@@ -5,9 +5,15 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Hello World! 前方虽长，犹可期待。
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+>此博客采用Github+jekyll模板制作。
+
+<br>
+<br>
+这是一个用于记录个人学习笔记的博客~  
+<br>
+<br>
+<br>
+![](https://i.imgur.com/guei7UD.jpg)
