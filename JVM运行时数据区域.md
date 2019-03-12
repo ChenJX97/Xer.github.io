@@ -4,15 +4,15 @@
 
 #### Java堆 (Java Heap)
 
-堆中存放**实例对象**和**数组**，是**垃圾收集器管理**的主要区域；
+  堆中存放**实例对象**和**数组**，是**垃圾收集器管理**的主要区域；
 
-- 在**分代收集算法**下，堆空间又可分为 **新生区**(1/3) 和 **老年区**(2/3)；
+  - 在**分代收集算法**下，堆空间又可分为 **新生区**(1/3) 和 **老年区**(2/3)；
 
-​		新生区又可分为 **Eden**(8/10)，**From Survivor**(1/10)，**To Survivor**(1/10)；
+      新生区又可分为 **Eden**(8/10)，**From Survivor**(1/10)，**To Survivor**(1/10)；
 
-​	在内存分配角度，堆可划分出多个线程私有的**分配缓冲区**（**TLAB**，Thread Local Allocation Buffer）；
+  在内存分配角度，堆可划分出多个线程私有的**分配缓冲区**（**TLAB**，Thread Local Allocation Buffer）；
 
-​	堆中可能导致异常类型：OOM（**OutOfMemoryError**）；
+  堆中可能导致异常类型：OOM（**OutOfMemoryError**）；
 
 #### 方法区(Method Area)
 
